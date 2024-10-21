@@ -1,0 +1,72 @@
+;Additional uninstall tasks - do not edit
+RegKeyEmpty:HKCR/GIMP-2.0-xcf
+RegKeyEmpty:HKCR/GIMP-2.0-xcf\DefaultIcon
+RegKeyEmpty:HKCR/GIMP-2.0-xcf\shell
+RegKeyEmpty:HKCR/GIMP-2.0-xcf\shell\open
+RegKeyEmpty:HKCR/GIMP-2.0-xcf\shell\open\command
+RegKeyEmpty:HKCR/.xcf
+RegVal:HKCR/GIMP-2.0-xcf\
+RegVal:HKCR/GIMP-2.0-xcf\DefaultIcon\
+RegVal:HKCR/GIMP-2.0-xcf\shell\open\command\
+RegVal:HKCR/.xcf\
+RegKey:HKCR/Honeyview.psd\shell\Open with GIMP
+RegVal:HKCR/Honeyview.psd\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.psd\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.gif\shell\Open with GIMP
+RegVal:HKCR/Honeyview.gif\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.gif\shell\Open with GIMP\command\
+RegKeyEmpty:HKCR/GIMP-2.0-gih
+RegKeyEmpty:HKCR/GIMP-2.0-gih\DefaultIcon
+RegKeyEmpty:HKCR/GIMP-2.0-gih\shell
+RegKeyEmpty:HKCR/GIMP-2.0-gih\shell\open
+RegKeyEmpty:HKCR/GIMP-2.0-gih\shell\open\command
+RegKeyEmpty:HKCR/.gih
+RegVal:HKCR/GIMP-2.0-gih\
+RegVal:HKCR/GIMP-2.0-gih\DefaultIcon\
+RegVal:HKCR/GIMP-2.0-gih\shell\open\command\
+RegVal:HKCR/.gih\
+RegKeyEmpty:HKCR/GIMP-2.0-gbr
+RegKeyEmpty:HKCR/GIMP-2.0-gbr\DefaultIcon
+RegKeyEmpty:HKCR/GIMP-2.0-gbr\shell
+RegKeyEmpty:HKCR/GIMP-2.0-gbr\shell\open
+RegKeyEmpty:HKCR/GIMP-2.0-gbr\shell\open\command
+RegKeyEmpty:HKCR/.gbr
+RegVal:HKCR/GIMP-2.0-gbr\
+RegVal:HKCR/GIMP-2.0-gbr\DefaultIcon\
+RegVal:HKCR/GIMP-2.0-gbr\shell\open\command\
+RegVal:HKCR/.gbr\
+RegKeyEmpty:HKCR/.gpb
+RegVal:HKCR/.gpb\
+RegKey:HKCR/Photoshop.Patterns\shell\Open with GIMP
+RegVal:HKCR/Photoshop.Patterns\shell\Open with GIMP\
+RegVal:HKCR/Photoshop.Patterns\shell\Open with GIMP\command\
+RegKey:HKCR/Photoshop.PreferencesFile\shell\Open with GIMP
+RegVal:HKCR/Photoshop.PreferencesFile\shell\Open with GIMP\
+RegVal:HKCR/Photoshop.PreferencesFile\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.jpeg\shell\Open with GIMP
+RegVal:HKCR/Honeyview.jpeg\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.jpeg\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.pnm\shell\Open with GIMP
+RegVal:HKCR/Honeyview.pnm\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.pnm\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.png\shell\Open with GIMP
+RegVal:HKCR/Honeyview.png\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.png\shell\Open with GIMP\command\
+RegKey:HKCR/Adobe.SVGCtl\shell\Open with GIMP
+RegVal:HKCR/Adobe.SVGCtl\shell\Open with GIMP\
+RegVal:HKCR/Adobe.SVGCtl\shell\Open with GIMP\command\
+RegKey:HKCR/Photoshop.TIFFFile.9\shell\Open with GIMP
+RegVal:HKCR/Photoshop.TIFFFile.9\shell\Open with GIMP\
+RegVal:HKCR/Photoshop.TIFFFile.9\shell\Open with GIMP\command\
+RegKey:HKCR/Photoshop.TGAFile.9\shell\Open with GIMP
+RegVal:HKCR/Photoshop.TGAFile.9\shell\Open with GIMP\
+RegVal:HKCR/Photoshop.TGAFile.9\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.bmp\shell\Open with GIMP
+RegVal:HKCR/Honeyview.bmp\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.bmp\shell\Open with GIMP\command\
+RegKey:HKCR/icofile\shell\Open with GIMP
+RegVal:HKCR/icofile\shell\Open with GIMP\
+RegVal:HKCR/icofile\shell\Open with GIMP\command\
+RegKey:HKCR/Honeyview.pcx\shell\Open with GIMP
+RegVal:HKCR/Honeyview.pcx\shell\Open with GIMP\
+RegVal:HKCR/Honeyview.pcx\shell\Open with GIMP\command\
